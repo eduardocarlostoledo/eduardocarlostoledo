@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @eduardocarlostoledo
-- 👀 I’m Junior Web Developer. My Stack= [Javascript, Html, Css, React, Redux, NodeJs, Express, Sequelize, Postgresql, Git , GitHub];
+- 👀 I’m Junior Web Developer. 
 - More than 1,440 hours on Coding from 2022 ?).
 - 🌱 I’m currently learning React Native, Phyton, Figma, & Vue.
 - 💞️ I’m looking to collaborate on ...soyHenry & own proyects.
-- 📫 How to reach me ...Here :D
+- 📫 How to reach me ...
+- https://www.linkedin.com/in/eduardo-toledo-639ab198/
 - Stack de Tecnologias
 
 <div align="left">
