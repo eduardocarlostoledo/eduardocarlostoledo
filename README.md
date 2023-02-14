@@ -17,6 +17,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://www.svgrepo.com/show/35001/github.svg" height="40" width="52" alt="github logo"  />
 </div>
 <!---
 eduardocarlostoledo/eduardocarlostoledo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
