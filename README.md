@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardocarlostoledo
 - 👀 I’m Junior Web Developer. 
-- More than 1,440 hours on Coding from 2022 ?).
+- More than 1,800 hours on Coding since 2022 ?).
 - 🌱 I’m currently learning React Native, Phyton, Figma, & Vue.
 - 💞️ I’m looking to collaborate on ...soyHenry & own proyects.
 - 📫 How to reach me ...
