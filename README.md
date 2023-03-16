@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eduardocarlostoledo
-- 👀 I’m Web Developer. 
+- 👀 I’m Full Stack Web Developer. 
 - More than 1,800 hours on Coding since 2022 ?).
 - 🌱 I’m currently learning React Native, Phyton, Figma, & Vue.
 - 💞️ I’m looking to collaborate on ...soyHenry & own proyects.
