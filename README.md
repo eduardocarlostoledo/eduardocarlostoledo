@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @eduardocarlostoledo
 - 👀 I’m Full Stack Web Developer. 
-- More than 1,800 hours on Coding since 2022 ?).
 - 🌱 I’m currently learning DEVOPS & AWS RDS, EC2 & VPC
-- 💞️ I’m looking to collaborate on ...soyHenry & own proyects.
+- 💞️ I’m looking to collaborate as a freelance own proyects.
 - 📫 How to reach me ...
 - https://www.linkedin.com/in/eduardo-toledo-639ab198/
 - Stack de Tecnologias
